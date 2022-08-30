@@ -1,0 +1,4 @@
+1. git init (initialize)
+2. ls (ie list all files inside this folder)
+3. git add (file name) or git add . (to add all files at once).
+4. git commit -m 'this is my first commit'
